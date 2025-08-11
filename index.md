@@ -4,9 +4,10 @@ layout: page
 
 # About Me
 
-<img src="xinyini.jpeg" class="floatpic">
+<img src="xinyini.png" class="floatpic">
 
 Hello! I’m **Xinyi Ni(倪心逸)**.  
+
 I am a Ph.D. candidate in Computer Science at [Brandeis University](https://www.brandeis.edu/), advised by [Prof. Pengyu Hong](https://www.cs.brandeis.edu/~hong/). My research focuses on **Large Language Model (LLM) agents** and **automatic tool generation** from unstructured REST API documentation. I am particularly interested in making AI agents more capable, reliable, and universally applicable across domains.  
 
 I earned my B.A. in Financial Mathematics from Soochow University, where I built a strong analytical and quantitative foundation. During that time, I studied as a visiting student at **UC Berkeley**, taking courses in data structures, algorithms, and machine learning, which sparked my passion for artificial intelligence and intelligent systems.  
@@ -18,10 +19,9 @@ I am always open to research collaborations and job opportunities. Feel free to 
 ## Research Interests
 
 - Large Language Model Agents
-- Automatic Tool Generation from REST APIs
 - Agent Planning and Reasoning
-- Knowledge Extraction from Unstructured Data
-- API-based Web Agents and Evaluation
+- Web Agents and Evaluation
+- Knowledge Extraction
 - AI for Scientific Research
 
 ---
