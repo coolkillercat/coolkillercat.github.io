@@ -19,4 +19,5 @@ title: Publications
 - [Multiple Abstraction Level Retrieve Augment Generation](https://alphaxiv.org/pdf/2501.16952?)<br>Zheng Zheng, **Xinyi Ni**, Pengyu Hong<br>
 
 - [Reflections from the 2024 large language model (llm) hackathon for applications in materials science and chemistry](https://alphaxiv.org/pdf/2506.19998)<br>Yoel Zimmermann et al.<br>
+
 ---
