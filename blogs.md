@@ -4,4 +4,4 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## Blog is WIP
+## Page WIP
